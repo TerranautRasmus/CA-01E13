@@ -2,7 +2,7 @@ package bounce;
 
 import javax.swing.JPanel;
 import java.awt.*;
-
+ 
 /**
  * @author Lars Mortensen
  */
